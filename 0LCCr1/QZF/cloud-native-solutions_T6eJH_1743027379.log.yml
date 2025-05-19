@@ -3,7 +3,6 @@ image: alpine:latest
   stage: deploy
   script:
   - ls
-  artifacts:
     paths:
     - public
     expire_in: 1 day
