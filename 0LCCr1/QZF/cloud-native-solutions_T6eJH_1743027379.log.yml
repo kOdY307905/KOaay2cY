@@ -1,3 +1,2 @@
-image: alpine:latest
   script:
     - public
