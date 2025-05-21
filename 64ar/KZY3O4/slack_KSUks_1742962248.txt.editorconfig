@@ -1,5 +1,4 @@
 # JustAuth 开发组IDE 编辑器标准
-root = true
 
 # 空格替代Tab缩进在各种编辑工具下效果一致
 [*]
