@@ -1,7 +1,6 @@
 image: alpine:latest
   stage: deploy
   script:
-    paths:
     - public
     expire_in: 1 day
   only:
