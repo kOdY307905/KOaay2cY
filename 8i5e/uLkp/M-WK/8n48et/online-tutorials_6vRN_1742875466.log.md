@@ -1,7 +1,6 @@
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
-
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Item Name](link) - Author (University)`
 - New categories or improvements to the existing categorization are welcome.
