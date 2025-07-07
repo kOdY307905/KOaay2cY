@@ -1,0 +1,14 @@
+/.git
+/.vscode
+/node_modules
+/samples
+/target
+*.md
+.dockerignore
+.editorconfig
+.gitattributes
+.gitignore
+.prettierc
+Dockerfile
+Justfile
+package*.json
